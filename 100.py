@@ -13,3 +13,5 @@ def wait_for_print():
 
 wait_for_print()
 print(datetime.datetime.now())
+
+print("Testing GitHub")
